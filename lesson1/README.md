@@ -92,6 +92,9 @@ kill %1
 
 ---
 
+<img width="1248" height="440" alt="image" src="https://github.com/user-attachments/assets/c5b3146a-02fd-487b-8856-8fbc561aa5cf" />
+
+
 ## Шаг 2. Первый workflow: lint + test
 
 Создайте файл `.github/workflows/ci.yml`. Набирайте сами, а не
