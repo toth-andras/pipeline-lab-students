@@ -60,6 +60,8 @@ jf c show
 
 **В отчёт:** скриншот пустого репозитория на GitHub после первого пуша.
 
+<img width="1544" height="704" alt="image" src="https://github.com/user-attachments/assets/7ce77507-b0d3-4fdf-b814-fc1aa3e84f34" />
+
 ---
 
 ## Шаг 1. Локальный прогон — то, что CI будет делать за нас
